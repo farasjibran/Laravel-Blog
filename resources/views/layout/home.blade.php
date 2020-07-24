@@ -51,6 +51,18 @@
         </div>
     </div>
 
+    <!-- Content -->
+    <div class="container greybackground">
+        <div class="textmore">
+            <h1 class="textheading">More <span style="font-weight: bold;">About</span> Me</h1>
+            <p class="paragrap">Perkenalkan nama saya Muhammad Farras Jibran, saya sekarang <br>
+                masih bersekolah di SMK Taruna Bhakti dan duduk di bangku kelas 12. Disini saya akan memberikan <br>
+                pengalaman saya atau Experience saya selama bersekolah di SMK Taruna Bhakti dan pencapaian <br>
+                apa saja yang telah saya dapatkan selama bersekolah di SMK Taruna Bhakti.
+            </p>
+            <h1 class="textheading">Find <span style="font-weight: bold;">Me</span> On</h1>
+        </div>
+    </div>
 
 </body>
 
