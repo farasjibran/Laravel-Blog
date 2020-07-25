@@ -54,14 +54,47 @@
     <!-- Content -->
     <div class="container greybackground">
         <div class="textmore">
-            <h1 class="textheading">More <span style="font-weight: bold;">About</span> Me</h1>
+            <!-- Row 1 -->
+            <div class="row">
+                <div class="col-sm" style="margin-right: -450px;">
+                    <h1 class="textheading">More <span style="font-weight: bold;">About</span> Me</h1>
+                </div>
+                <div class="col-sm" style="padding-top: 35px;">
+                    <img class="gambartitik" src="{{ asset('img/titik3.png') }}" alt="">
+                </div>
+            </div>
             <p class="paragrap">Perkenalkan nama saya Muhammad Farras Jibran, saya sekarang <br>
                 masih bersekolah di SMK Taruna Bhakti dan duduk di bangku kelas 12. Disini saya akan memberikan <br>
                 pengalaman saya atau Experience saya selama bersekolah di SMK Taruna Bhakti dan pencapaian <br>
                 apa saja yang telah saya dapatkan selama bersekolah di SMK Taruna Bhakti.
             </p>
-            <h1 class="textheading">Find <span style="font-weight: bold;">Me</span> On</h1>
+            <!-- Row 2 -->
+            <div class="row">
+                <div class="col-sm" style="margin-right: -570px;">
+                    <h1 class="textheading">Find <span style="font-weight: bold;">Me</span> On</h1>
+                </div>
+                <div class="col-sm" style="padding-top: 35px;">
+                    <img class="gambartitik" src="{{ asset('img/titik3.png') }}" alt="">
+                </div>
+            </div>
+            <!-- Row 3 -->
+            <div class="row" style="padding-bottom: 5%;">
+                <div class="col-sm" style="margin-right: -400px;">
+                    <a href=""><img class="igpict" src="{{ asset('img/instagram.png') }}" alt=""></a>
+                </div>
+                <div class="col-sm" style="margin-right: -400px;">
+                    <a href="mailto:farasjibran@gmail.com"><img class="gmpict" src="{{ asset('img/gmail.png') }}" alt=""></a>
+                </div>
+                <div class="col-sm">
+                    <a href="https://github.com/farasjibran?tab=repositories"><img class="gitpict" src="{{ asset('img/github.png') }}" alt=""></a>
+                </div>
+            </div>
         </div>
+    </div>
+
+    <!-- div img -->
+    <div class="profilepict">
+        <img style="width: 20%;" src="{{ asset('img/me.png') }}" alt="">
     </div>
 
 </body>

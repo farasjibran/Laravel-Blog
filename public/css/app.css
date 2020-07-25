@@ -10986,7 +10986,8 @@ li:hover {
 }
 
 .textmore {
-  padding-left: 9%;
+  padding-top: 3%;
+  padding-left: 14%;
   color: white;
 }
 
@@ -10997,5 +10998,27 @@ li:hover {
 .paragrap {
   font-size: 20px;
   margin-top: 2%;
+}
+
+.gambartitik {
+  width: 15%;
+}
+
+.igpict {
+  width: 30%;
+}
+
+.gmpict {
+  width: 30%;
+}
+
+.gitpict {
+  width: 30%;
+}
+
+.profilepict {
+  position: relative;
+  margin-top: -28%;
+  margin-left: 16%;
 }
 
