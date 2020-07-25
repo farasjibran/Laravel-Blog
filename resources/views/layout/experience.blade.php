@@ -32,7 +32,7 @@
                         <a class="nav-link" href="/experience">Experience</a>
                     </li>
                     <li class="nav-item hover">
-                        <a class="nav-link" href="/portofolio">Portofolio</a>
+                        <a class="nav-link" href="/portofolio">Portfolio</a>
                     </li>
                 </ul>
             </div>

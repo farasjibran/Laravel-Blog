@@ -32,7 +32,7 @@
                         <a class="nav-link" href="/experience">Experience</a>
                     </li>
                     <li class="nav-item hover">
-                        <a class="nav-link" href="/portofolio">Portofolio</a>
+                        <a class="nav-link" href="/portofolio">Portfolio</a>
                     </li>
                 </ul>
             </div>
@@ -78,15 +78,17 @@
                 </div>
             </div>
             <!-- Row 3 -->
-            <div class="row" style="padding-bottom: 5%;">
-                <div class="col-sm" style="margin-right: -650px;">
-                    <a href=""><img class="igpict" src="{{ asset('img/instagram.png') }}" alt=""></a>
-                </div>
-                <div class="col-sm" style="margin-right: -650px;">
-                    <a href="mailto:farasjibran@gmail.com"><img class="gmpict" src="{{ asset('img/gmail.png') }}" alt=""></a>
-                </div>
-                <div class="col-sm">
-                    <a href="https://github.com/farasjibran?tab=repositories"><img class="gitpict" src="{{ asset('img/github.png') }}" alt=""></a>
+            <div class="findme">
+                <div class="row" style="padding-bottom: 5%;">
+                    <div class="col-sm" style="margin-right: -650px;">
+                        <a href=""><img class="igpict" src="{{ asset('img/instagram.png') }}" alt=""></a>
+                    </div>
+                    <div class="col-sm" style="margin-right: -650px;">
+                        <a href="mailto:farasjibran@gmail.com"><img class="gmpict" src="{{ asset('img/gmail.png') }}" alt=""></a>
+                    </div>
+                    <div class="col-sm">
+                        <a href="https://github.com/farasjibran?tab=repositories"><img class="gitpict" src="{{ asset('img/github.png') }}" alt=""></a>
+                    </div>
                 </div>
             </div>
         </div>
