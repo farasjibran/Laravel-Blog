@@ -79,10 +79,10 @@
             </div>
             <!-- Row 3 -->
             <div class="row" style="padding-bottom: 5%;">
-                <div class="col-sm" style="margin-right: -400px;">
+                <div class="col-sm" style="margin-right: -650px;">
                     <a href=""><img class="igpict" src="{{ asset('img/instagram.png') }}" alt=""></a>
                 </div>
-                <div class="col-sm" style="margin-right: -400px;">
+                <div class="col-sm" style="margin-right: -650px;">
                     <a href="mailto:farasjibran@gmail.com"><img class="gmpict" src="{{ asset('img/gmail.png') }}" alt=""></a>
                 </div>
                 <div class="col-sm">
