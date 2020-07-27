@@ -19,7 +19,7 @@
 
     <!-- Navbar -->
     <div class="NavBar">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -40,7 +40,7 @@
     </div>
 
     <!-- Welcome -->
-    <div class="container" style="margin-top: 30px;">
+    <div class="container" style="margin-top: 90px;">
         <div class="row">
             <div class="col-sm">
                 <h1 class="katasam">WEL- <span><br>-CO-</span> <span><br> -ME</span></h1>
